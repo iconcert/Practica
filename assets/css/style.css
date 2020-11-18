@@ -4,7 +4,7 @@
 }
 body {
 	background-repeat: no-repeat;
-	background-color: white;
+	background-color: rgb(255, 255, 255);
 }
 .one {
 	display: flex;
@@ -70,7 +70,6 @@ h3 {
 }
 .two {
 	display: flex;
-	height: 1600px;
 	background-repeat: no-repeat;
 	background-size: cover;
 	justify-content: center;
@@ -118,4 +117,31 @@ figcaption {
 .img {
 	width: 290px;
 	height: 290px;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+.three {
+	display: flex;
+	background-color: rgb(255, 249, 249);
+	height: 1600px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	justify-content: center;
+}
+.title-3 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height: 160px;
+    justify-content: center;
+}
+.content-2 {
+	display: flex;
+    justify-content: center;
+	font-size: 20px;
+}
+.content-3 {
+	width: 75%;
 }
