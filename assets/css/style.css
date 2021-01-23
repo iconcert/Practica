@@ -51,8 +51,14 @@ button {
 	flex-direction: column;
     height: 90%;
     justify-content: center;
+    color: rgba(84,78,78,1);
+    font-family: Georgiapro-regular;
 }
 h1 {
+	padding-top: 12px;
+	padding-bottom: 12px;
+}
+h2 {
 	padding-top: 12px;
 	padding-bottom: 12px;
 }

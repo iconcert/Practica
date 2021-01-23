@@ -1,0 +1,11 @@
+<svg width="110" height="110" xmlns="http://www.w3.org/2000/svg">
+
+  <path d="M20 20 H 100 V 100 H 20 L 20 20"/>
+
+  <!-- Точки -->
+  <circle cx="20" cy="20" r="5" fill="red"/>
+  <circle cx="100" cy="100" r="5" fill="red"/>
+  <circle cx="100" cy="20" r="5" fill="red"/>
+  <circle cx="20" cy="100" r="5" fill="red"/>
+
+</svg>
