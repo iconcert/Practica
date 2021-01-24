@@ -149,7 +149,7 @@ a {
     flex-direction: column;
     text-align: center;
     height: 160px;
-    justify-content: flex-end;
+    justify-content: center;
 }
 .content-2 {
 	display: flex;
@@ -188,7 +188,7 @@ iframe {
 	align-items: center;
 }
 .title-4 {
-
+	text-align: center;
 }
 .four {
 	display: flex;
@@ -209,16 +209,21 @@ iframe {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
-	padding: 60px;
 }
 .five {
 	display: flex;
 	background-color: rgb(255, 249, 249);
 	justify-content: center;
 }
+.trener-1 {
+	display: flex;
+	justify-content: center;
+}
 .trener {
 	display: flex;
 	padding-bottom: 80px;
+	width: 80%;
+	justify-content: center;
 }
 .description {
 	font-size: 20px;
@@ -232,4 +237,54 @@ iframe {
 }
 .size {
 	width: 310px;
+}
+.six {
+	display: flex;
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+}
+.seven {
+	display: flex;
+    height: 2000px;
+    background-color: rgb(255, 249, 249);
+    justify-content: center;
+}
+.eight {
+	display: flex;
+    height: 2000px;
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+}
+.block {
+	width: 350px;
+	height: 240px;
+	border: solid 1px red;
+	margin: 30px;
+}
+.block-1 {
+	font-size: 24px;
+	text-align: center;
+	padding-top: 70px;
+}
+.block-2 {
+	width: 350px;
+	height: 480px;
+	border: solid 1px red;
+	margin: 30px;
+	padding: 20px;
+}
+.block-3 {
+	font-size: 35px;
+	text-align: center;
+	padding-top: 60px;
+}
+.block-4 {
+	font-size: 40px;
+	font-style: bold;
+	text-align: center;
+}
+.image {
+	width: 400px;
+	height: 400px;
+	border-radius: 0%;
 }
