@@ -1,0 +1,58 @@
+.title-3 {
+	height: auto;
+	font-size: 40px;
+}
+.title-1, {
+	width: 85%;
+}
+.one-1 {
+	width: 95%;
+}
+.description {
+	width: 100%;
+}
+.header-1 {
+	flex-wrap: wrap;
+	justify-content: flex-end;
+}
+.content {
+	width: 87%;
+}
+.content-4 {
+	height: auto;
+}
+
+.content-6 {
+	font-size: 30px;
+}
+.trener {
+	flex-direction: column;
+	width: 115%;
+	align-items: center;
+	padding-bottom: 0;
+}
+.block-5-1 {
+	flex-direction: column;
+	align-items: center;
+	width: 100%;
+}
+.block-5-2 {
+	padding-left: 0;
+}
+figure {
+	padding: 21px;
+}
+.figure {
+	padding: 19px;
+}
+.content-3-1 {
+	width: 100%;
+}
+.content-5 {
+	justify-content: center;
+	height: auto;
+}
+.block-5-1 {
+	width: 85%;
+	padding: 10px;
+}

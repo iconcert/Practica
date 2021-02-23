@@ -351,3 +351,28 @@ audio {
 	margin: 30px;
 	padding: 20px;
 }
+.footer-two {
+
+}
+.footer-three {
+	display: flex;
+	width: 20%;
+}
+.footer-four {
+	display: flex;
+	justify-content: flex-end;
+	font-size: 24px;
+	width: 80%;
+}
+.footer-four>p>a {
+	color: rgb(207, 207, 207);
+}
+.footer-five {
+	display: flex;
+	font-size: 24px;
+	color: rgb(207, 207, 207);
+	height: 30px;
+}
+.footer-six {
+
+}
