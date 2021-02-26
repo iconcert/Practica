@@ -1,2 +1,2 @@
 # Practica
- Мой первый проект.
+Leding page
