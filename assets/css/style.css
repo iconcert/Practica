@@ -224,6 +224,7 @@ iframe {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
+	align-items: center;
 }
 .five {
 	display: flex;
@@ -346,13 +347,27 @@ audio {
 	background-color: white;
 }
 .block-7 {
-	height: 100px;
-	border: solid 1px red;
+	border: solid 0.1px red;
+	border-radius: 15%;
 	margin: 30px;
 	padding: 20px;
+	width: 80%;
+}
+.block-7-1 {
+	font-size: 24px;
+	padding-bottom: 5px;
+}
+.block-7-2 {
+	font-size: 24px;
+	padding-bottom: 5px;
+	width: 35%;
 }
 .footer-two {
-
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	font-size: 24px;
+	width: 80%;
 }
 .footer-three {
 	display: flex;
@@ -374,5 +389,5 @@ audio {
 	height: 30px;
 }
 .footer-six {
-
+	display: flex;
 }

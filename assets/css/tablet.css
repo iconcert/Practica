@@ -56,3 +56,9 @@ figure {
 	width: 85%;
 	padding: 10px;
 }
+.footer-two {
+	flex-direction: column;
+}
+.block-7-2 {
+	width: auto;
+}
