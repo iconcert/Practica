@@ -14,7 +14,7 @@ body {
 	justify-content: center;
 }
 .one-1 {
-	width: 90%;
+	width: 80%;
 }
 header {
 	display: flex;
@@ -132,8 +132,7 @@ figcaption {
 	height: 290px;
 }
 .svg {
-	width: 80px;
-	height: 80px;
+	margin: -40px;
 }
 .svg1 {
 	display: flex;
@@ -318,7 +317,6 @@ iframe {
 	display: flex;
 	background-color: white;
 	padding: 10px;
-	height: 540px;
     padding-top: 20px;
 }
 .block-5-2 {
@@ -359,7 +357,12 @@ audio {
 	border-radius: 15%;
 	margin: 30px;
 	padding: 20px;
-	width: 100%;
+	text-align: center;
+}
+.block-7-3 {
+	border: solid 0.1px #673ab7;
+	margin: 30px;
+	padding: 20px;
 }
 .block-7-1 {
 	font-size: 24px;
