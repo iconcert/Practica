@@ -1,3 +1,3 @@
 # Practica
 * Leding page
-* [Practika](https://iconcert.github.io/Practica/) 
+* [Practica](https://iconcert.github.io/Practica/) 
