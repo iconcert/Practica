@@ -4,6 +4,9 @@
 .header-1, form {
     flex-direction: column;
 }
+form {
+    align-items: flex-end;
+}
 .header {
     display: flex;
     flex-direction: column;
