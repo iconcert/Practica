@@ -4,9 +4,6 @@
 .header-1, form {
     flex-direction: column;
 }
-form {
-    align-items: flex-end;
-}
 .header {
     display: flex;
     flex-direction: column;
@@ -65,8 +62,8 @@ audio {
 }
 .block, .block-2, .block-6 {
     width: 320px;
-}
-.instagram {
+} 
+.submit-1 {
     display: flex;
-    align-items: center;
+    align-items: flex-end;
 }
