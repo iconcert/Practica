@@ -66,3 +66,7 @@ audio {
 .block, .block-2, .block-6 {
     width: 320px;
 }
+.instagram {
+    display: flex;
+    align-items: center;
+}
