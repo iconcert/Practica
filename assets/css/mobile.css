@@ -5,10 +5,12 @@
     flex-direction: column;
 }
 .header {
+    display: flex;
+    flex-direction: column;
     height: 15%;
 }
 .title-3 {
-    font-size: 30px;
+    font-size: 25px;
 }
 .trener {
     flex-direction: column;
@@ -52,6 +54,12 @@ audio {
     width: 100%;
 }
 .image {
-    width: 380px;
+    width: 320px;
     height: 287px;
+}
+.one, .two, .three, .four, .five, .six, .seven, .eight {
+    width: 110%;
+}
+.block, .block-2, .block-6 {
+    width: 320px;
 }

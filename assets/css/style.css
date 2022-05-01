@@ -133,6 +133,7 @@ figcaption {
 }
 .svg {
 	margin: -40px;
+	width: 140px;
 }
 .svg1 {
 	display: flex;
@@ -251,7 +252,7 @@ iframe {
     align-items: center;
 }
 .size {
-	width: 310px;
+	width: 100%;
 }
 .six {
 	display: flex;
@@ -316,7 +317,6 @@ iframe {
 .block-5-1 {
 	display: flex;
 	background-color: white;
-	padding: 10px;
     padding-top: 20px;
 }
 .block-5-2 {
